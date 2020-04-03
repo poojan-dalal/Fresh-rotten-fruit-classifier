@@ -1,1 +1,7 @@
-https://drive.google.com/file/d/1IeqPcLboqwNi6LFRLDSmGsO09cmJ1AtG/view?usp=sharing
+You can directly download our trained model in .h5 format from the below link:
+
+Filename: "Fresh_Rotten_Fruits_MobileNetV2_Transfer_Learning.h5"
+
+File location:  https://drive.google.com/file/d/1IeqPcLboqwNi6LFRLDSmGsO09cmJ1AtG/view?usp=sharing
+
+File size: 31 MB (approx.)
